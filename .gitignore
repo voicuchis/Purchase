@@ -1,4 +1,4 @@
 
 *.csv
 bin/
-.ipynb_checkpoints/Reporter-checkpoint.ipynb
+.ipynb_checkpoints/*-checkpoint.ipynb
